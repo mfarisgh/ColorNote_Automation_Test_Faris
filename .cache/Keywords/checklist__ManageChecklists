@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "F304F51B93E854CBA26C3AB33B6FAED0",
+  "keywordClasses": [
+    {
+      "name": "checklist.ManageChecklists",
+      "keywordMethods": [
+        {
+          "name": "createMultiChecklistContents",
+          "parameters": [
+            {
+              "name": "multiChecklistContents",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Create Multiple Checklist Contents in a loop\r\n\t *\r\n\t *\r\n\t *\r\n\t * @param multiChecklistContents Strings of multiple checklist contents\r\n\t * @return\r\n\t */"
+        },
+        {
+          "name": "verifyMultiChecklistContents",
+          "parameters": [
+            {
+              "name": "multiChecklistContents",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Verify Multiple Checklist Contents in a loop\r\n\t *\r\n\t *\r\n\t *\r\n\t * @param multiChecklistContents Strings of multiple checklist contents\r\n\t * @return\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

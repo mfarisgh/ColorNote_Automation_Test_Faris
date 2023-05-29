@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S3-TC3-Users archive the note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c842427b-3297-41d3-a29b-e3f63ca66d15</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a613b93-59a0-4cd9-baab-9c95ca71c176</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test 3'</defaultValue>
+      <description></description>
+      <id>0a613b93-59a0-4cd9-baab-9c95ca71c176</id>
+      <masked>false</masked>
+      <name>noteText</name>
+   </variable>
+</TestCaseEntity>

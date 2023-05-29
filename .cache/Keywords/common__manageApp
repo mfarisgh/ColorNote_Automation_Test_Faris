@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "004A4C6A0E77FFFC3D4805514543157C",
+  "keywordClasses": [
+    {
+      "name": "common.manageApp",
+      "keywordMethods": [
+        {
+          "name": "loadApp",
+          "parameters": [
+            {
+              "name": "appId",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Load mobile app based on app ID\r\n\t *\r\n\t *\r\n\t * @param appId Mobile Application ID\r\n\t * @return\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

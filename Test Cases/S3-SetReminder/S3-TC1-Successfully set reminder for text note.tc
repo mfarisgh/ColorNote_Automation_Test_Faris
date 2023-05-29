@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S3-TC1-Successfully set reminder for text note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdf3cf8b-6be6-4f69-af1d-13404a7b0019</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ddd70d3-560a-4128-a86d-e56dbc044a64</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test 3'</defaultValue>
+      <description></description>
+      <id>7ddd70d3-560a-4128-a86d-e56dbc044a64</id>
+      <masked>false</masked>
+      <name>noteText</name>
+   </variable>
+</TestCaseEntity>

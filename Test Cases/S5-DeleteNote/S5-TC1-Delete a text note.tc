@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S5-TC1-Delete a text note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31eda472-ce43-4016-a134-761e55221c05</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1427674c-88d5-4909-b7c8-e79bd1f27ae8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test 1'</defaultValue>
+      <description></description>
+      <id>1427674c-88d5-4909-b7c8-e79bd1f27ae8</id>
+      <masked>false</masked>
+      <name>noteText</name>
+   </variable>
+</TestCaseEntity>

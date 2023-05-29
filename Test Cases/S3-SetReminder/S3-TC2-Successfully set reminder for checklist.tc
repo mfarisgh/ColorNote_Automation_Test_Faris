@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S3-TC2-Successfully set reminder for checklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d95a4c14-1a7a-4162-8b4c-d03eb4624da9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>801ec8aa-782c-4c63-8825-57aaef2023a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Checklist Title 1'</defaultValue>
+      <description></description>
+      <id>801ec8aa-782c-4c63-8825-57aaef2023a0</id>
+      <masked>false</masked>
+      <name>noteText</name>
+   </variable>
+</TestCaseEntity>

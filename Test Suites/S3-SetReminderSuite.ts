@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>S3-SetReminderSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>60101252-49a7-4322-8f34-35588050ee4b</testSuiteGuid>
+   <testCaseLink>
+      <guid>5196bc65-bc0c-4551-a0fc-beb24efbe8ea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/S3-SetReminder/S3-TC1-Successfully set reminder for text note</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7ddd70d3-560a-4128-a86d-e56dbc044a64</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f1b576cc-4734-4988-8c92-ed27d77ce7ad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/S3-SetReminder/S3-TC2-Successfully set reminder for checklist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>801ec8aa-782c-4c63-8825-57aaef2023a0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0be98cb0-d39f-46f2-aa51-608a20ee7654</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/S3-SetReminder/S3-TC3-Users archive the note</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0a613b93-59a0-4cd9-baab-9c95ca71c176</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

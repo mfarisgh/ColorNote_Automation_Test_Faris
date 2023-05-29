@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "2D708FD2DE4B18689BF0C07AA77D2D96",
+  "keywordClasses": [
+    {
+      "name": "achieveNote.ManageAchieveNote",
+      "keywordMethods": [
+        {
+          "name": "verifyStepFinishReminder",
+          "parameters": [
+            {
+              "name": "isElementPresent",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "boolean",
+                "unresolvedClassName": "boolean",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Verify step Finish Reminder of a note\r\n\t *\r\n\t *\r\n\t *\r\n\t * @param isElementPresent true or false whether element is present\r\n\t * @return\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

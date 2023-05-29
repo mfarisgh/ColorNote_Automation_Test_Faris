@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S1-TC2-Successfully create simple checklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9ea82a3-d256-4fa0-a76f-884088627447</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33d7e0d6-10d5-4f5b-bf8a-61420edc5412</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c3c0036-a107-42ee-a565-5e63bfaa17ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Checklist Title 1'</defaultValue>
+      <description></description>
+      <id>33d7e0d6-10d5-4f5b-bf8a-61420edc5412</id>
+      <masked>false</masked>
+      <name>checklistTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Checklist A,Checklist B,Checklist C'</defaultValue>
+      <description></description>
+      <id>2c3c0036-a107-42ee-a565-5e63bfaa17ec</id>
+      <masked>false</masked>
+      <name>checklistContents</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>S5-DeleteNoteSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e0e1ce02-66b4-42b8-be23-c6eb1f742836</testSuiteGuid>
+   <testCaseLink>
+      <guid>8f89170c-93eb-4c9c-aab5-d484c61a0cf0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/S5-DeleteNote/S5-TC1-Delete a text note</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1427674c-88d5-4909-b7c8-e79bd1f27ae8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>14f6fbee-4718-4b43-9507-82484263c60b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/S5-DeleteNote/S5-TC2-Delete a checklist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>882e7004-149e-478c-85de-d7801a880b80</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S2-TC1-User found the words they were search for</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7202e691-964b-47a6-b640-951bc4650340</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>624b8537-03eb-43d7-a474-9ad7d5d9758a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>624b8537-03eb-43d7-a474-9ad7d5d9758a</id>
+      <masked>false</masked>
+      <name>searchText</name>
+   </variable>
+</TestCaseEntity>

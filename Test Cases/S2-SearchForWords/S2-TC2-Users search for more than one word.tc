@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S2-TC2-Users search for more than one word</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f1e7295-1300-4687-8691-6c4c6d13f1e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bad4344b-4b94-4118-929d-98f15c2bab95</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test 2'</defaultValue>
+      <description></description>
+      <id>bad4344b-4b94-4118-929d-98f15c2bab95</id>
+      <masked>false</masked>
+      <name>searchText</name>
+   </variable>
+</TestCaseEntity>

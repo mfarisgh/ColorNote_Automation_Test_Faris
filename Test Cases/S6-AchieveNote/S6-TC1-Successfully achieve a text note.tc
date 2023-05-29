@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S6-TC1-Successfully achieve a text note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64915695-6656-469f-af8a-d320dbe7a5ce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>226112f1-0d27-4365-b8b9-9a22bacda3f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test 3'</defaultValue>
+      <description></description>
+      <id>226112f1-0d27-4365-b8b9-9a22bacda3f3</id>
+      <masked>false</masked>
+      <name>noteText</name>
+   </variable>
+</TestCaseEntity>

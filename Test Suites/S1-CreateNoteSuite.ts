@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>S1-CreateNoteSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2afcb73c-69fb-41a3-abdb-6d22000dc406</testSuiteGuid>
+   <testCaseLink>
+      <guid>54f65768-2229-4606-aef5-bede26b7550f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/S1-CreateNote/S1-TC1-Successfully create simple text note (with DDT)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2e5b20a9-f5ef-4a90-9217-65bd54c90bc7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AddTextNote</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2e5b20a9-f5ef-4a90-9217-65bd54c90bc7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>noteText</value>
+         <variableId>6b7c6e98-397f-41a1-bce9-2ef7d7a9efd5</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f57e5823-4280-4dc1-b85f-74e1d6e862f0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/S1-CreateNote/S1-TC2-Successfully create simple checklist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>33d7e0d6-10d5-4f5b-bf8a-61420edc5412</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2c3c0036-a107-42ee-a565-5e63bfaa17ec</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

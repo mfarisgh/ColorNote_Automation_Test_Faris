@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S4-TC2-Edit the checklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a04fbe3a-220a-4551-bf5d-f7c9f86c0c01</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13cd734a-bfac-41a4-a544-4f9e4dbb6355</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fcf60e55-c821-4acc-9d72-5f1c06d7e8e7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfe43b59-ebcf-41d1-baee-f452da8c0529</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Checklist B'</defaultValue>
+      <description></description>
+      <id>13cd734a-bfac-41a4-a544-4f9e4dbb6355</id>
+      <masked>false</masked>
+      <name>checklistContent</name>
+   </variable>
+   <variable>
+      <defaultValue>'Checklist 2'</defaultValue>
+      <description></description>
+      <id>fcf60e55-c821-4acc-9d72-5f1c06d7e8e7</id>
+      <masked>false</masked>
+      <name>newChecklistContent</name>
+   </variable>
+   <variable>
+      <defaultValue>'Checklist Title 1'</defaultValue>
+      <description></description>
+      <id>cfe43b59-ebcf-41d1-baee-f452da8c0529</id>
+      <masked>false</masked>
+      <name>checklistTitle</name>
+   </variable>
+</TestCaseEntity>

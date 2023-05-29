@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S1-TC1-Successfully create simple text note (with DDT)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>907c3ba3-77da-43b7-97d6-52cacf35c05d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>dd732b9c-377d-42d0-aaf1-1162fbd1be09</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/AddTextNote</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>dd732b9c-377d-42d0-aaf1-1162fbd1be09</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>noteText</value>
+      <variableId>6b7c6e98-397f-41a1-bce9-2ef7d7a9efd5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test 1'</defaultValue>
+      <description></description>
+      <id>6b7c6e98-397f-41a1-bce9-2ef7d7a9efd5</id>
+      <masked>false</masked>
+      <name>noteText</name>
+   </variable>
+</TestCaseEntity>

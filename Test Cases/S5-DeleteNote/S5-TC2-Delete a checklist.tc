@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S5-TC2-Delete a checklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caedcc7a-fd5f-441f-af12-631bf00f4284</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>882e7004-149e-478c-85de-d7801a880b80</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Checklist Title 1'</defaultValue>
+      <description></description>
+      <id>882e7004-149e-478c-85de-d7801a880b80</id>
+      <masked>false</masked>
+      <name>checklistTitle</name>
+   </variable>
+</TestCaseEntity>
