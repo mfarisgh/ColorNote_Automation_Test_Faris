@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "004A4C6A0E77FFFC3D4805514543157C",
+  "keywordFileContentHash": "E2BF51756E7A54F929131E41714B1202",
   "keywordClasses": [
     {
       "name": "common.manageApp",
@@ -19,9 +19,22 @@
                 "genericsTypes": [],
                 "errorOnParsing": false
               }
+            },
+            {
+              "name": "isPersistent",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "boolean",
+                "unresolvedClassName": "boolean",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
             }
           ],
-          "javadoc": "/**\r\n\t * Load mobile app based on app ID\r\n\t *\r\n\t *\r\n\t * @param appId Mobile Application ID\r\n\t * @return\r\n\t */"
+          "javadoc": "/**\r\n\t * Load mobile app based on app ID\r\n\t *\r\n\t *\r\n\t * @param appId Mobile Application ID\r\n\t * @param isPersistent isPersistent true or false\r\n\t * @return\r\n\t */"
         }
       ]
     }

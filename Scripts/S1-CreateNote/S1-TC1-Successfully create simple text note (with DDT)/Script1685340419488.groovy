@@ -18,7 +18,13 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Load app using custom keyword with status info text'
-statusText = CustomKeywords.'common.manageApp.loadApp'(GlobalVariable.appId)
+statusText = CustomKeywords.'common.manageApp.loadApp'(GlobalVariable.appId, GlobalVariable.isPersistent)
+
+//run pakai mobile device yg connect pc (local)
+//Mobile.startExistingApplication('app.id')
+
+//run pakai mobile device daripada lambdatest
+//Mobile.startApplication('<url app>', true)
 
 'Verify Mobile App ID is specified'
 println(statusText + GlobalVariable.appId)

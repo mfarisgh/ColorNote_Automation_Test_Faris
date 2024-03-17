@@ -9,4 +9,9 @@
       <initValue>'com.socialnmobile.dictapps.notepad.color.note'</initValue>
       <name>appId</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>true</initValue>
+      <name>isPersistent</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

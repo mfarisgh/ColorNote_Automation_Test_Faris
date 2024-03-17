@@ -26,13 +26,19 @@ public class manageApp {
 	 *
 	 *
 	 * @param appId Mobile Application ID
+	 * @param isPersistent isPersistent true or false
 	 * @return
 	 */
 	@Keyword(keywordObject = 'Load App')
-	def loadApp(String appId) {
+	def loadApp(String appId, boolean isPersistent) {
 		String statusText = "Invalid App ID "
 		if(!"".equals(appId)) {
-			Mobile.startExistingApplication(appId)
+			if (isPersistent) {
+				Mobile.startExistingApplication(appId)
+			}
+			else {
+				Mobile.startApplication(appId, true)
+			}
 			statusText = "App ID is specified. Loading Mobile App based on ID "
 		}
 		return statusText

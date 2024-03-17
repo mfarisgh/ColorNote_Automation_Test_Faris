@@ -15,9 +15,9 @@
       <testDataId>Data Files/AddTextNote</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>dd732b9c-377d-42d0-aaf1-1162fbd1be09</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>noteText</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>6b7c6e98-397f-41a1-bce9-2ef7d7a9efd5</variableId>
    </variableLinks>
    <variable>
