@@ -111,11 +111,11 @@ The following prerequisites that you will need to get started:
    ```sh
    npm install -g appium@1.22.3
    ```
-6. Android device or emulator ([get Android Studio](https://developer.android.com/studio) and [install emulator](https://developer.android.com/studio/run/emulator)).
-7. Enabled "USB debugging" in Android device/emulator. [Refer here on how to do it.](https://developer.android.com/studio/debug/dev-options)
-8. Enabled "Install via USB" and "USB debugging (security settings)" if you use Xiaomi devices.
-9. Enabled "Disable permission monitoring" if you use Oppo, Realme and OnePlus devices.
-10. Installed [ColorNote app.](https://www.apkmirror.com/apk/notes/colornote-notepad-notes/) Refer [here](https://www.vrtourviewer.com/docs/adb/) on how to install it in your emulator (if you use emulator).
+5. Android device or emulator ([get Android Studio](https://developer.android.com/studio) and [install emulator](https://developer.android.com/studio/run/emulator)).
+6. Enabled "USB debugging" in Android device/emulator. [Refer here on how to do it.](https://developer.android.com/studio/debug/dev-options)
+7. Enabled "Install via USB" and "USB debugging (security settings)" if you use Xiaomi devices.
+8. Enabled "Disable permission monitoring" if you use Oppo, Realme and OnePlus devices.
+9. Installed [ColorNote app.](https://www.apkmirror.com/apk/notes/colornote-notepad-notes/) Refer [here](https://www.vrtourviewer.com/docs/adb/) on how to install it in your emulator (if you use emulator).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
