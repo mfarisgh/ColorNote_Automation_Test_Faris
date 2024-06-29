@@ -57,7 +57,7 @@
 This is a POC Groovy/Java project for Automation Testing using Katalon to test ColorNote mobile app. 
 The goal of this project is to demonstrate how an Automation Testing is done using tools/frameworks. 
 Of course this project is not limited to its current conditions. 
-You may fork it and customize it further depending on your needs.
+You may clone it to your own environment and customize it further depending on your needs.
 
 * [Get to know about Automation Testing](https://www.techtarget.com/searchsoftwarequality/definition/automated-software-testing)
 * [Get to know Katalon](https://katalon.com/)
